@@ -1,0 +1,22 @@
+.header {
+    margin: 20px 0 10px 0;
+}
+
+.modal-upload-section {
+    margin: 20px 0;
+}
+
+.invalid-feedback {
+    font-weight: 600;
+}
+
+.single-item {
+    margin-bottom: 10px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+    cursor: zoom-in;
+}
